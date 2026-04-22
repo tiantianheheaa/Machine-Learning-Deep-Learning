@@ -1,3 +1,6 @@
+- 自己总结
+  - logits是模型线性层最后的输出结果。范围是[-无穷，+无穷]。
+  - 概率是logits经过sigmoid或softmax后的概率值，范围是[0,1]。
 
 
 <img width="1478" height="1464" alt="image" src="https://github.com/user-attachments/assets/f2e4ca0e-cc36-466f-8f0a-95037d38cf00" />
